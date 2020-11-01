@@ -1,0 +1,6 @@
+source 'https://rubygems.org'
+
+gem 'os'
+gem 'solargraph', group: :development
+# gem 'jaro_winkler'
+# gem 'solargraph'
